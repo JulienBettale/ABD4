@@ -1,0 +1,48 @@
+.margin-top {
+  margin-top: 10px;
+}
+
+.margin-top a {
+  margin: 2px;
+}
+
+.margin-0-auto {
+  margin: 0 auto;
+}
+
+.margin-bottom-20 {
+  margin-bottom: 20px;
+}
+
+
+  /*---------------------*/
+ /*----- index.php -----*/
+/*---------------------*/
+.registration {
+  margin-right: 10px;
+}
+
+.content {
+  margin: 10px;
+}
+
+.container-index p {
+  font-size: 18px;
+}
+
+  /*----------------------------*/
+ /*----- registration.php -----*/
+/*----------------------------*/
+
+  /*--------------------------*/
+ /*----- connection.php -----*/
+/*--------------------------*/
+
+  /*----------------------------*/
+ /*----- edit-profile.php -----*/
+/*----------------------------*/
+.form-box {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 10px;
+}
